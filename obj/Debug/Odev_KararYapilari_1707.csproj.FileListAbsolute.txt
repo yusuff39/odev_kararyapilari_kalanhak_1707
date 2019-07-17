@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.Form1.resources
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\bin\Debug\Odev_KararYapilari_1707.exe.config
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\bin\Debug\Odev_KararYapilari_1707.exe
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\bin\Debug\Odev_KararYapilari_1707.pdb
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.exe
+C:\Users\ASUS\source\repos\Odev_KararYapilari_1707\Odev_KararYapilari_1707\obj\Debug\Odev_KararYapilari_1707.pdb
